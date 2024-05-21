@@ -73,3 +73,8 @@ Step 3: Start the Server
 }
 
     4.	Click Send. The response will display the original message.
+
+
+
+### UML Chart
+https://viewer.diagrams.net/?page-id=BH2wHb9Ohrei_chCcBEB&highlight=0000ff&edit=_blank&layers=1&nav=1&hide-pages=1#Hdhaddad2%2FDecoder-Microservice%2Fmain%2FUntitled%20Diagram.drawio
